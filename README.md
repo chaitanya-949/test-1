@@ -47,3 +47,6 @@ Update the data_dir variable in a code cell to point to your dataset directory.
 
 Run each code cell individually or use the "Run All" option to execute the entire notebook.
 
+## Test Loss: 0.5476108193397522
+## Test Accuracy: 0.8571428656578064
+
